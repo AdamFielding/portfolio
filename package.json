@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://adamfielding.github.io/",
   "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
     "react": "^16.0.0",
-    "react-bootstrap": "^0.31.5",
     "react-dom": "^16.0.0",
-    "react-router-bootstrap": "^0.24.4",
-    "react-router-dom": "^4.2.2"
+    "react-router-dom": "^4.2.2",
+    "reactstrap": "^5.0.0-alpha.4"
   },
   "devDependencies": {
     "eslint": "^4.9.0",
